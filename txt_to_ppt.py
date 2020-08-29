@@ -33,7 +33,7 @@ slide = prs.slides.add_slide(blank_slide_layout)
 # uncomment the below line if you want to give custom image.
 #img_path = input('Enter The Image path or drop image here ')
 #if you are using above line please comment the line given below.
-img_path = 'img.jpg'
+img_path = 'input_img.jpg'
 
 left = Inches(0.5)
 height = Inches(5)
